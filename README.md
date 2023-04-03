@@ -22,7 +22,7 @@ I am a Full Stack Web Developer. I am working with Laravel, PHP, React, MySQL,HT
  <a href="https://www.facebook.com/biplabuddin99/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" width="30" height="30"/>
  <a href="https://www.linkedin.com/in/biplabuddin99/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/>
  <a href="https://twitter.com/biplabuddin99" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="30" height="30"/>
- <a href="https://github.com/biplabuddin99" target="_blank"> <img src="[https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-tile.svg](https://www.vectorlogo.zone/logos/github/github-tile.svg)" alt="github" width="30" height="30"/>
+<a href="https://github.com/biplabuddin99" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="30" height="30"/>
   <a href="https://www.instagram.com/biplabuddin99/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/instagram/instagram-icon.svg" alt="instagram" width="30" height="30"/>
   </p>
 
