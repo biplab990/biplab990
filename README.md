@@ -111,10 +111,10 @@ I am a Full Stack Web Developer. I am working with Laravel, PHP, React, MySQL,HT
   <br />
 
 
-<!--   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplabuddin99&langs_count=10&layout=compact&theme=vue" alt="Biplab Uddin"/></br></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplabuddin99&langs_count=10&layout=compact&theme=vue" alt="Biplab Uddin"/></br></p>
 
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?biplabuddin99&langs_count=10&layout=compact&theme=vue" alt="Biplab Uddin"/></br></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=biplabuddin99&show_icons=true&locale=en&theme=vue-dark" alt="Biplab Uddin"/></br></p>
 
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?biplabuddin99&show_icons=true&locale=en&theme=vue-dark" alt="Biplab Uddin"/ ></br></p> -->
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?biplabuddin99&show_icons=true&locale=en&theme=vue-dark" alt="Biplab Uddin"/ ></br></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biplabuddin99&theme=vue)
