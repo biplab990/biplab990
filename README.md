@@ -118,4 +118,3 @@ I am a Full Stack Web Developer. I am working with Laravel, PHP, React, MySQL,HT
 
   <p align="center"><img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biplabuddin99&theme=vue" /></p>
     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplabuddin99&" alt="Biplab Uddin" /></p>
-       <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplabuddin99&" alt="Biplab Uddin" /></p>
