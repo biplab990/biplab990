@@ -86,7 +86,7 @@ I am a Full Stack Web Developer. I am working with Laravel, PHP, React, MySQL,HT
             <img src="https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png&color=000000" width="48"
                 height="48" alt="reactjs" />
         </a>
-        <br>React JS
+        <br>Vue
     </td>
       <td align="center" width="96">
       <a href="#git" >
