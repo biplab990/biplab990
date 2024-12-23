@@ -83,7 +83,7 @@ I am a Full Stack Web Developer. I am working with Laravel, PHP, React, MySQL,HT
    <tr>
     <td align="center" width="96">
         <a href="#reactjs">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48"
+            <img src="https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png&color=000000" width="48"
                 height="48" alt="reactjs" />
         </a>
         <br>React JS
